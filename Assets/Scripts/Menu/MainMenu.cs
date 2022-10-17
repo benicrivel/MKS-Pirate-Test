@@ -23,4 +23,14 @@ public class MainMenu : MonoBehaviour
     {
         optionsMenu.gameObject.SetActive(false);
     }
+
+    public void ChangeSessionTime()
+    {
+        //whatever this means
+    }
+
+    public void ChangeSpawnTime()
+    {
+        //change enemy spawn time
+    }
 }
